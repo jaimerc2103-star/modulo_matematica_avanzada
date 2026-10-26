@@ -1,0 +1,58 @@
+[
+  {
+    "chapter": 1,
+    "title": "Introducción a las ecuaciones diferenciales",
+    "sections": 4,
+    "solved": 3,
+    "exercises": 14,
+    "activities": 4
+  },
+  {
+    "chapter": 2,
+    "title": "Integrales y familias de soluciones",
+    "sections": 4,
+    "solved": 3,
+    "exercises": 14,
+    "activities": 4
+  },
+  {
+    "chapter": 3,
+    "title": "Campos de pendientes e isoclinas",
+    "sections": 4,
+    "solved": 3,
+    "exercises": 14,
+    "activities": 4
+  },
+  {
+    "chapter": 4,
+    "title": "Ecuaciones separables y aplicaciones",
+    "sections": 4,
+    "solved": 3,
+    "exercises": 14,
+    "activities": 4
+  },
+  {
+    "chapter": 5,
+    "title": "Ecuaciones lineales de primer orden",
+    "sections": 4,
+    "solved": 3,
+    "exercises": 14,
+    "activities": 4
+  },
+  {
+    "chapter": 6,
+    "title": "Métodos de sustitución y ecuaciones exactas",
+    "sections": 5,
+    "solved": 3,
+    "exercises": 14,
+    "activities": 4
+  },
+  {
+    "chapter": 7,
+    "title": "Modelos matemáticos de primer orden",
+    "sections": 5,
+    "solved": 3,
+    "exercises": 14,
+    "activities": 4
+  }
+]

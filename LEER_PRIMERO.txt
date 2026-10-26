@@ -1,0 +1,20 @@
+MÓDULO DE MATEMÁTICA AVANZADA — VERSIÓN CORREGIDA
+
+1) Descomprima por completo el archivo ZIP.
+2) Para ver todo el libro sin depender de otros archivos, abra:
+      ABRIR_LIBRO_COMPLETO.html
+   Este archivo contiene el diseño, los 7 capítulos, las figuras y el motor de fórmulas.
+3) Para ver la versión de capítulos separados, abra:
+      docs/index.html
+   Mantenga la carpeta docs junto con sus subcarpetas assets, codigo y capitulos.
+4) Para trabajar en MATLAB, abra:
+      live_scripts/bloque_1/cap_01_intro_edo.m
+5) Para GitHub Pages, suba TODO el contenido de esta carpeta y seleccione
+      Settings > Pages > Deploy from a branch > main > /docs.
+
+CAUSA DEL PROBLEMA ANTERIOR:
+El archivo HTML separado perdió acceso a docs/assets/styles.css.
+Esta edición integra los estilos directamente en cada HTML y añade un libro
+independiente que se puede abrir con doble clic incluso sin conexión.
+
+NOTA: Las fórmulas se representan usando MathJax incluido en el proyecto.
